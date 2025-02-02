@@ -64,10 +64,16 @@ challenges_solutions_table.png
 Carpeta Drive: https://drive.google.com/file/d/11dBJpETqHf6t3QOaR4I4tq65VSODYhaO/view?usp=sharing
 
 🚀 Instalación y Uso del Asistente de Código
+
 1️⃣ Descarga y Extrae los Archivos
+
 2️⃣ Instala Python (si no lo tienes)
+
 3️⃣ Crea un Entorno Virtual (Opcional, Recomendado)
-4️⃣ Instala las Dependencias
+
+4️⃣ Instala Requirements
+
 5️⃣ Ejecuta el Asistente
+
 6️⃣ ¡Listo! El Asistente se Abrirá en tu Navegador
 
