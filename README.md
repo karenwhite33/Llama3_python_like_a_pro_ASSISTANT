@@ -51,8 +51,23 @@ Reduced token generation latency by 18%, improving efficiency for real-time codi
 
 challenges_solutions_table.png
 
+# **ONLINE**
+
 🔵 Huggingface Models: https://huggingface.co/karenwhiteg/python-like-a-pro
 
 🔴 Huggingface Spaces: https://huggingface.co/spaces/karenwhiteg/Python_Like_A_Pro
 
 📗Huggingface Dataset: https://huggingface.co/datasets/karenwhiteg/Python_Like_A_Pro
+
+
+# **LOCAL** 
+Carpeta Drive: https://drive.google.com/file/d/11dBJpETqHf6t3QOaR4I4tq65VSODYhaO/view?usp=sharing
+
+🚀 Instalación y Uso del Asistente de Código
+1️⃣ Descarga y Extrae los Archivos
+2️⃣ Instala Python (si no lo tienes)
+3️⃣ Crea un Entorno Virtual (Opcional, Recomendado)
+4️⃣ Instala las Dependencias
+5️⃣ Ejecuta el Asistente
+6️⃣ ¡Listo! El Asistente se Abrirá en tu Navegador
+
